@@ -3,8 +3,8 @@
 **IMPORTANT**: This assignment is due on **Tuesday, Nov 26, 2024** at 11:59 pm Beijing Time.  
 **REMINDER**: You have a total of 5 slip days for all three homework assignments.
 
-**Name:** [Your Name Here]  
-**Student ID:** [Your Student ID Here]
+**Name:** [Yunfei Wang]  
+**Student ID:** [2021533135]
 
 Homework 1 consists of two parts.
 
