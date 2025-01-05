@@ -7,7 +7,7 @@ This repository contains programming assigments of the CS280 course, fall, 2024 
 ## Programming Assigments
 
 <div style="text-align: center;">
-  <img src="./CS280-Fall24-Assignment2/styles/starry_night.jpg" alt="sd" width="300" height="200">
+  <img src="./CS280-Fall24-Assignment2/styles/starry_night.jpg" alt="sd" width="500" height="350">
 </div>
 
 - [HW1](https://github.com/wangyf9/CS280-Deep-Learning/tree/main/CS280-Fall24-Assignment1)
