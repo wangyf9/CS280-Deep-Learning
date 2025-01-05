@@ -6,7 +6,7 @@ This repository contains programming assigments of the CS280 course, fall, 2024 
 
 ## Programming Assigments
 
-![sd](\CS280-Fall24-Assignment2\styles\starry_night.jpg)
+![sd](/CS280-Fall24-Assignment2/styles/starry_night.jpg)
 
 - [HW1](https://github.com/wangyf9/CS280-Deep-Learning/tree/main/CS280-Fall24-Assignment1)
   - GMM
